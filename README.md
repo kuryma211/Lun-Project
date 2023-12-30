@@ -1,6 +1,6 @@
 # ☄️ Luna-project
 ---
-<p align=center> <img src='https://s13.gifyu.com/images/SjjZy.jpg'></p>
+<p align=center> <img src='https://s13.gifyu.com/images/SjjfO.gif'></p>
 <table align=center>
   <tr>
     <th></th>
